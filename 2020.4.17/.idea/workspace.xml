@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfce6a6a-cdcb-4b45-8a9e-21194a42deb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1acTtE6yoRajkmVNa2aCId0kyEn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.TestDemo2">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="2020.4.17类与对象" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo2" />
+      <module name="2020.4.17类与对象" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo3" />
+      <module name="2020.4.17类与对象" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo2" />
+        <item itemvalue="Application.TestDemo3" />
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfce6a6a-cdcb-4b45-8a9e-21194a42deb9" name="Default Changelist" comment="" />
+      <created>1587034098631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587034098631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="810" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1587138318417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="810" y="30" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587138318417" />
+    <state x="664" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587125711515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="664" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1587125711515" />
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1587228570608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587228570608" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1587228570608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587228570608" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1587228570608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587228570608" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1587228570608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587228570608" />
+    <state x="358" y="12" key="SettingsEditor" timestamp="1587083115718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="358" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587083115718" />
+    <state x="414" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1587135721735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="200" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587135721735" />
+    <state x="533" y="216" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1587083112397">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="216" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1587083112397" />
+    <state x="777" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587088264612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="777" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587088264612" />
+  </component>
+</project>
