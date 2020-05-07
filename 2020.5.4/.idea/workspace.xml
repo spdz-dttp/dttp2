@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="099729ff-bbc9-4212-a974-ed42455fd68c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bQWfw7ADd6nxyX3tXeD0rY9SSO" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestMain" />
+      <module name="2020.5.4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="099729ff-bbc9-4212-a974-ed42455fd68c" name="Default Changelist" comment="" />
+      <created>1588564904413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588564904413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="787" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1588669217912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="787" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588669217912" />
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1588742612442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588742612442" />
+    <state width="1323" height="158" key="GridCell.Tab.0.center" timestamp="1588742612442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588742612442" />
+    <state width="1323" height="158" key="GridCell.Tab.0.left" timestamp="1588742612441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588742612441" />
+    <state width="1323" height="158" key="GridCell.Tab.0.right" timestamp="1588742612442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588742612442" />
+    <state x="566" y="147" key="com.intellij.ide.util.TipDialog" timestamp="1588811849323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="566" y="147" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588811849323" />
+    <state x="654" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588661492541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="654" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1588661492541" />
+    <state x="488" y="61" width="672" height="678" key="search.everywhere.popup" timestamp="1588732046065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="61" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588732046065" />
+  </component>
+</project>
