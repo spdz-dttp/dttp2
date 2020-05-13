@@ -92,9 +92,11 @@ public class TestDemo2 {
     public static void main3(String[] args) {
 
         /*Person person = new Person();
-        //如何访问静态成员变量？  类名.静态成员变量
+        //如何访问静态成员变量？  类名.静态成员变量(对象的引用.静态成员变量 也可以用，但会报警告)
         System.out.println(person.name);*/
-        System.out.println(Person.size);
+        Person person = new Person();
+        System.out.println(person.size);//对象的引用.静态成员变量 也可以用，但会报警告
+        System.out.println(Person.size);//类名.静态成员变量
 
     }
 
