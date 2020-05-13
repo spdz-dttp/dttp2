@@ -66,7 +66,7 @@ public class TestDemo {
 
     /**
      * String 和 StringBuilder及StringBuffer的区别（都被final修饰，不能被继承）
-     *  1、String 的拼接会产生大量临时变量。StringBuilder及StringBuffer不会
+     *  1、String 的拼接会产生大量临时变量。StringBuilder及StringBuffer不会（因为这两个可以更改String）
      *  2、String 拼接会被优化为StringBuilder的append()
      *  3、String和StringBuilder一般用于单线程情况下
      *     StringBuffer一般用于多线程（synchronized 线程安全)   最常用
