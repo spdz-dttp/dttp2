@@ -15,6 +15,7 @@ class MyException extends RuntimeException{
         super();
     }
 
+	
     public MyException(String message) {
         super(message);
     }
