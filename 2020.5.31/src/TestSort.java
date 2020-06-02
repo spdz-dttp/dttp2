@@ -28,7 +28,7 @@ public class TestSort {
     /**
      * 希尔排序：
      *      采用分组的思想，组内进行直接插入排序
-     *
+     *	不稳定排序
      */
     public static void shell(int[] array, int gap) {
         for (int i = gap; i < array.length; i++) {
