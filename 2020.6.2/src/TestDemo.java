@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class TestDemo {
 
     public static boolean isAdmin(String userId){
-        return userId.toLowerCase()=="admin";//等号比较引用地址，equals()比较值
+        return userId.toLowerCase()=="admin";//等号比较引用地址，equals()比较值。
     }
 
     public static boolean isAdmin2(String userId){
