@@ -9,7 +9,15 @@ import java.util.Stack;
  **/
 public class TestSort {
 
-    //归并排序
+    /**
+     * 归并排序
+     *
+     * 时间复杂度: n*log(2)n
+     * 空间复杂度: O(n)
+     * 稳定排序
+     * 外排序： 磁盘。
+     * @param array
+     */
     public static void mergeSort(int[] array) {
         mergeSortInternal(array,0,array.length-1);
     }
