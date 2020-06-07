@@ -10,7 +10,7 @@ import java.util.Stack;
 public class TestSort {
 
     /**
-     * 归并排序
+     * 归并排序(递归实现)
      *
      * 时间复杂度: n*log(2)n
      * 空间复杂度: O(n)
@@ -40,7 +40,7 @@ public class TestSort {
         int len = high-low+1;
         int[] ret = new int[len];
         int i = 0;//用来表示ret数组的下标
-
+		//对应位置比较
         while (s1 <= mid && s2 <= high) {
             if (array[s1] <= array[s2]) {
                 ret[i++] = array[s1++];
@@ -48,7 +48,8 @@ public class TestSort {
                 ret[i++] = array[s2++];
             }
         }
-
+		
+		//判断谁没走完，把剩下的数放到ret数组中
         while (s1 <= mid) {
             ret[i++] = array[s1++];
         }
@@ -57,6 +58,7 @@ public class TestSort {
             ret[i++] = array[s2++];
         }
 
+		//将ret数组中的数放到array数组中
         for (int j = 0; j < ret.length; j++) {
             array[j+low] = ret[j];
         }
