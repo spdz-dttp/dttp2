@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a6fa57d-b70d-4c54-a595-6a740c876373" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TestDemo2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="424" />
+    <option name="y" value="24" />
+    <option name="width" value="883" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1dQt2Gtl0YMhyerRkTCIn4p85NR" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2020.6.11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2020.6.11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2020.6.11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2020.6.11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2020.6.11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2020.6.11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDemo2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="2020.6.11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2020.6.11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDemo3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="2020.6.11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2020.6.11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDemo4.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestDemo4">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="2020.6.11" />
+    </configuration>
+    <configuration name="TestDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo2" />
+      <module name="2020.6.11" />
+    </configuration>
+    <configuration name="TestDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo3" />
+      <module name="2020.6.11" />
+    </configuration>
+    <configuration name="TestDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo4" />
+      <module name="2020.6.11" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestDemo" />
+      <item itemvalue="Application.TestDemo2" />
+      <item itemvalue="Application.TestDemo3" />
+      <item itemvalue="Application.TestDemo4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo4" />
+        <item itemvalue="Application.TestDemo3" />
+        <item itemvalue="Application.TestDemo2" />
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a6fa57d-b70d-4c54-a595-6a740c876373" name="Default Changelist" comment="" />
+      <created>1592368935451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592368935451</updated>
+      <workItem from="1605766036184" duration="1476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="424" y="24" width="883" height="688" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2490887" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="783" height="139" key="GridCell.Tab.0.bottom" timestamp="1592408540108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="783" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592408540108" />
+    <state width="783" height="139" key="GridCell.Tab.0.center" timestamp="1592408540108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="783" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592408540108" />
+    <state width="783" height="139" key="GridCell.Tab.0.left" timestamp="1592408540107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="783" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592408540107" />
+    <state width="783" height="139" key="GridCell.Tab.0.right" timestamp="1592408540108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="783" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592408540108" />
+    <state x="278" y="171" key="com.intellij.ide.util.TipDialog" timestamp="1592479824300">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="171" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592479824300" />
+    <state x="115" y="0" key="new project wizard" timestamp="1592390807684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592390807684" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/TestDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
