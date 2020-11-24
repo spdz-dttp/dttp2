@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05abe81e-77b8-4677-a176-fbebbb466b25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ePFjnoBxD0o8KmHRDlOk9VOASO" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="2020.6.15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05abe81e-77b8-4677-a176-fbebbb466b25" name="Default Changelist" comment="" />
+      <created>1594215458768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594215458768</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="784" height="157" key="GridCell.Tab.0.bottom" timestamp="1594477713624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="784" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594477713624" />
+    <state width="784" height="157" key="GridCell.Tab.0.center" timestamp="1594477713623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="784" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594477713623" />
+    <state width="784" height="157" key="GridCell.Tab.0.left" timestamp="1594477713622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="784" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594477713621" />
+    <state width="784" height="157" key="GridCell.Tab.0.right" timestamp="1594477713624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="784" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594477713624" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1594474942439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594474942439" />
+  </component>
+</project>
