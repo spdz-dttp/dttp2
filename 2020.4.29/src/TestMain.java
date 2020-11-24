@@ -37,10 +37,10 @@
  *  反编译java代码:
  *      javap -c 类名
  *
- *  向下转型-》 将父类的引用  赋值给  子类
+ *  向下转型-》 将父类的引用  赋值给  子类的引用
  *      注意：向下转型非常不安全 很少会使用
  *      关键字  instanceof
- *              A instanceof B  判断 A 是不是 B 的一个实例
+ *              A instanceof B  判断 A 是不是 B 的一个父类
  */
 
 class Animal {
@@ -97,7 +97,7 @@ public class TestMain {
     }
 
     /**
-     * 向下转型-》 将父类的引用  赋值给  子类
+     * 向下转型-》 将父类的引用  赋值给  子类的引用
      * 演示 不安全的向下转型
      * @param args
      */
@@ -118,7 +118,7 @@ public class TestMain {
 
     /**
      * 向下转型
-     * 向下转型-》 将父类的引用  赋值给  子类
+     * 向下转型-》 将父类的引用  赋值给  子类的引用
      * 注意：向下转型非常不安全 很少会使用
      * @param args
      */
@@ -128,7 +128,7 @@ public class TestMain {
 
         //animal.fly();//error  通过父类的引用  只能访问父类自己的方法或属性
 
-        //向下转型-》 将父类的引用  赋值给  子类
+        //向下转型-》 将父类的引用  赋值给  子类的引用
         Bird bird = (Bird) animal;//强转
         bird.fly();
     }
