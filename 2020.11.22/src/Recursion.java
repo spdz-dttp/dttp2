@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * @program: 2020.11.22
- * @description: 递归练习
+ * @description:递归练习
  * @author: spdz
  * @create: 2020-11-22 16:08
  **/
