@@ -49,9 +49,9 @@ public class Tree {
         if(root == null) {
             return;
         }
-        pre(root.left);
+        in(root.left);
         System.out.print(root.val + " ");
-        pre(root.right);
+        in(root.right);
     }
 
 
