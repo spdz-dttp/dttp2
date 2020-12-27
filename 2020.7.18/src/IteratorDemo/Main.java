@@ -19,8 +19,8 @@ import java.util.Set;
  */
 
 /**
- * 只有线性组织方式有下标，可以一一遍历（顺序表--ArrayList,  链表--LinkedList, 栈--Stack）
- * 没有下标的，可以用迭代器(队列--Queue, Set, Map)
+ * 只有线性组织方式有下标，可以一一遍历（顺序表--ArrayList,  链表--LinkedList, 栈--Stack，队列--Queue）
+ * 没有下标的，可以用迭代器(Set, Map)
  * 迭代器说白了，就是从容器里把东西取出来
  */
 
